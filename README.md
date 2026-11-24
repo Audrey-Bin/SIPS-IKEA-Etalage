@@ -1,1 +1,1 @@
-# SIPS-IKEA-talage
+# SIPS-IKEA-Etalage
